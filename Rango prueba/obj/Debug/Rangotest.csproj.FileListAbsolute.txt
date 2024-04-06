@@ -1,0 +1,3 @@
+C:\Users\Axell\source\repos\Rango prueba\Rango prueba\obj\Debug\Rangotest.csproj.AssemblyReference.cache
+C:\Users\Axell\source\repos\Rango prueba\Rango prueba\obj\Debug\Rangotest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Axell\source\repos\Rango prueba\Rango prueba\obj\Debug\Rangotest.csproj.CoreCompileInputs.cache

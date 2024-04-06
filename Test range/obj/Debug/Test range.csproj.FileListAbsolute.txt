@@ -1,0 +1,2 @@
+C:\Users\Axell\source\repos\Rango prueba\Test range\obj\Debug\Test range.csproj.AssemblyReference.cache
+C:\Users\Axell\source\repos\Rango prueba\Test range\obj\Debug\Test range.csproj.CoreCompileInputs.cache
